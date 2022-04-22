@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <img src="">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>jojo's personal site</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body> 
+    <table>
+        <tr>
+            <td><img src="JOJO.png" alt="jojo profile picture"></td>
+            <td><h1>JOJO BRAYANA</h1><p>founder <em>
+                <a href="file:///C:/Users/user/Desktop/IMPLICATION_OF_NATIONAL_BROADCASTING_COMMISSION_CODE_ON_BROADCAST_MEDIA%20.pdf" > j tech hub</a> </em></p>
+                <p>i am an upcoming web developer</p></td>
+        </tr>
+    </table>
+    <hr>
+    <h3>Education</h3>
+    <ul>
+        <li>Trinity polytechnic uyo</li>
+        <li>mavir leaders college</li>
+        <li>chrisbon private school</li>
+    </ul>
+    <hr>
+    <h3> work experirnce</h3>
+    <table cellspacing="5" border="1">
+        <thead>
+            <tr>
+                <th> dates </th>
+                <th> work</th>
+                <th> position</th>
+            </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>2021</td>
+            <td> sly bar</td>
+            <td> barman</td> 
+        </tr>
+        <tr>
+            <td> 2019</td>
+            <td> riss hotels</td>
+            <td> barman</td>
+        </tr>
+    </tbody>
+    </table>
+    <hr>
+    <h3>skills</h3> 
+    <table cellspacing="5">
+        <tr>
+            <td>
+                <table>
+                <tr>
+                    <td>soccer player</td>
+                    <td>***</td>
+                </tr>
+                <tr>
+                    <td>eating</td>
+                    <td>****</td>
+                </tr>
+                <tr>
+                    <td>dancing</td>
+                    <td>***</td>
+                </tr>
+                <tr>
+                    <td>singing</td>
+                    <td>****</td>
+                </tr>
+                <tr>
+                    <td>toasting women</td>
+                    <td>*****</td>
+                    </tr>
+                </table>
+            </td>
+            <td>
+                <table>
+                    <tr>
+                        <td>soccer player</td>
+                        <td>***</td>
+                    </tr>
+                    <tr>
+                        <td>eating</td>
+                        <td>****</td>
+                    </tr>
+                    <tr>
+                        <td>dancing</td>
+                        <td>***</td>
+                    </tr>
+                    <tr>
+                        <td>singing</td>
+                        <td>****</td>
+                    </tr>
+                    <tr>
+                        <td>toasting women</td>
+                        <td>*****</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <hr>
+    <h3><a href="hobbies.html"> my hobbies</h3>
+    <h3><a href="contact me.html"> contact me</h3>    
+</body>
+</html> 
